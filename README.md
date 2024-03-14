@@ -1,3 +1,6 @@
+该图谱的访问链接：
+http://localhost:7474/browser/
+
 其中，图谱数据是构建抑郁症知识图谱的数据，这些数据都是经过处理的，数据来源与两方面：
 一是“39健康网”和“寻医问药网”的数据；
 二是中国知网的数据。
@@ -22,8 +25,6 @@ requests                           2.21.0，
 ![image](https://github.com/zhangcr2018/Depression_Knowledge_Graph/assets/39765745/cde25fad-babc-4838-bd9e-9c3052f88738)
 ![image](https://github.com/zhangcr2018/Depression_Knowledge_Graph/assets/39765745/b21a8e32-877b-45df-be54-f07c185ed21b)
 
-访问链接
-http://localhost:7474/browser/
 
 
 

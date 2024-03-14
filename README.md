@@ -12,6 +12,7 @@ pandas                             1.3.5
 pyahocorasick                      1.4.4
 PyMySQL                            1.0.2
 requests                           2.21.0
+![84e60bd28d32e964a6f17ec771f8085](https://github.com/zhangcr2018/Depression_Knowledge_Graph/assets/39765745/5f3b9b5d-544d-42a2-9c7d-5f2deb21e3b4)
 
 
 据统计构建的知识图谱的实体规模为2595个，关系数量为2907个。

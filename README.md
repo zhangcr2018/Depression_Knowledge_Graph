@@ -1,4 +1,4 @@
-  本知识图谱是中文的抑郁症知识图谱，主要实体类型包括：病因、症状、治疗、护理、食物、药物等。关系包括：宜吃、不宜吃、治疗方法、属于等。
+本知识图谱是中文的抑郁症知识图谱，主要实体类型包括：病因、症状、治疗、护理、食物、药物等。关系包括：宜吃、不宜吃、治疗方法、属于等。
 
   其中，图谱数据是构建抑郁症知识图谱的数据，这些数据都是经过处理的，数据来源与两方面：
 一是“39健康网”和“寻医问药网”的数据；
@@ -23,6 +23,8 @@ requests                           2.21.0，
 ![image](https://github.com/zhangcr2018/Depression_Knowledge_Graph/assets/39765745/50fb18ce-9e91-4dd2-b013-aefd77dc563b)
 ![image](https://github.com/zhangcr2018/Depression_Knowledge_Graph/assets/39765745/cde25fad-babc-4838-bd9e-9c3052f88738)
 ![image](https://github.com/zhangcr2018/Depression_Knowledge_Graph/assets/39765745/b21a8e32-877b-45df-be54-f07c185ed21b)
+
+特别说明：本知识图谱是在我的导师宿云老师全程指导下完成的，以上内容仅供学习参考。
 
 
 
